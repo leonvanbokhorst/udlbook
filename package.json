@@ -20,7 +20,7 @@
         "react-icons": "^5.2.1",
         "react-router-dom": "^6.23.1",
         "react-scroll": "^1.8.4",
-        "styled-components": "^6.1.11"
+        "styled-components": "^6.7.0"
     },
     "devDependencies": {
         "@vitejs/plugin-react-swc": "^3.5.0",
